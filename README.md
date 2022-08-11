@@ -4,9 +4,7 @@ These programs copy all PDFs from an EndNote library's .Data subfolders to one s
 
 ## Background
 
-In the [__EndNote__](https://endnote.com/ 'EndNote | The best reference management tool') desktop application, libraries include multiple files: The main library file has an .enl extension, but it is connected to a .Data folder, which includes other files. The desktop application is able to automatically retrieve the full texts of some references. Users can upload additional full-text files they have access to. Full texts can include PDF files, which are saved in separate folders within the .Data folder. 
-
-Without something like these programs, users need to manually go into each .Data subfolder and copy the PDFs.
+In the [__EndNote__](https://endnote.com/ 'EndNote | The best reference management tool') desktop application, libraries include multiple files: The main library file has an .enl extension, but it is connected to a .Data folder, which includes other files. The desktop application is able to automatically retrieve the full texts of some references. Users can upload additional full-text files they have access to. Full texts can include PDF files, which are saved in separate folders within the .Data folder. Without something like these programs, users who want all their PDFs in one folder need to manually go into each .Data subfolder and copy the PDFs.
 
 ## Potential Use Cases
 

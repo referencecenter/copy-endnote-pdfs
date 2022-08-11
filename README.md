@@ -28,5 +28,5 @@ There are different ways to provide this information. None of them requires you 
 ### Programs
 
 * [_copy-endnote-pdfs.py_](https://github.com/referencecenter/copy-endnote-pdfs/blob/main/copy-endnote-pdfs.py 'copy-endnote-pdfs/copy-endnote-pdfs.py at main • referencecenter/copy-endnote-pdfs') requires you to have Python installed and to edit three lines of code to provide the needed information.
-* _copy-endnote-pdfs_interactive.py_ (forthcoming) requires you to have Python installed, but you can just run the program, and it will prompt you for the needed information without you needing to edit the code.
+* [_copy-endnote-pdfs_interactive.py_](https://github.com/referencecenter/copy-endnote-pdfs/blob/main/copy-endnote-pdfs_interactive.py 'copy-endnote-pdfs/copy-endnote-pdfs_interactive.py at main • referencecenter/copy-endnote-pdfs') requires you to have Python installed, but you can just run the program, and it will prompt you for the needed information without you needing to edit the code.
 * _copy-endnote-pdfs_interactive.exe_ (forthcoming) does not require you to have Python installed. You can just run the program, and it will prompt you for the needed information. The downside is that this program is slower.

@@ -1,5 +1,7 @@
 # copy-endnote-pdfs
 
+## Summary
+
 These programs copy all PDFs from an EndNote library's .Data subfolders to one single folder.
 
 ## Background
